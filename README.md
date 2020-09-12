@@ -12,9 +12,9 @@ a. Leer el archivo Princesas.csv usando pandas y crear una nueva columna con el 
 <br> a. Crear la matriz TF-IDF
 
 🤡  Punto 3 : Distancia del coseno
-a. Calcular la distancia del coseno entre cada una de las princesas
-b. ¿Cuáles son las princesas más parecidas?
-c. ¿Cuáles son las princesas más diferentes?
+<br> a. Calcular la distancia del coseno entre cada una de las princesas
+<br> b. ¿Cuáles son las princesas más parecidas?
+<br> c. ¿Cuáles son las princesas más diferentes?
 
 
 
