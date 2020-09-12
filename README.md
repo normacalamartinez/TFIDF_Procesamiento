@@ -18,4 +18,4 @@ Ahora si entremos en materia para conocer un poco más.
 
 
 
-🦉 ¡Gracias por leerme! 🦉
+<br> 🦉 ¡Gracias por leerme! 🦉
