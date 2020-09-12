@@ -9,7 +9,7 @@ Ahora si entremos en materia para conocer un poco más.
 a. Leer el archivo Princesas.csv usando pandas y crear una nueva columna con el texto en minúscula, sin caracteres especiales ni números, sin palabras vacias y hacer stemming de las palabras
 
 🤡  Punto 2:
-a. Crear la matriz TF-IDF
+<br> a. Crear la matriz TF-IDF
 
 🤡  Punto 3 : Distancia del coseno
 a. Calcular la distancia del coseno entre cada una de las princesas
